@@ -21,7 +21,7 @@ I build responsive, user-friendly web apps, from React front ends to Node.js API
 - **[QuickBreak](https://github.com/KodeByDeep/QuickBreak):** full-stack app helping UK drivers find motorway service stations, with TomTom maps, routing and a voice assistant *(Dissertation project)*
 - **[Crowdfunding DApp](https://github.com/KodeByDeep/crowdfunding-dapp):** decentralised crowdfunding on Ethereum with Solidity, Hardhat and Next.js
 - **[ShineStar](https://shinestar-e-commerce-store.vercel.app/):** e-commerce store for a jewellery and accessories brand
-- **[Velora Web Agency](https://veloraweb.co.uk):** live website for a web design agency
+- **[Velora Web Agency](https://veloraweb.co.uk):**  agency website concept built with React, Vite and Tailwind CSS
 - **[Jade Garden](https://jaderestaurant.veloraweb.co.uk/):** restaurant website built with Next.js and TypeScript
 - **[Cisco Network Topology](https://github.com/KodeByDeep/cisco-network-topology):** routing, subnetting and switch configuration in Packet Tracer
 
