@@ -5,9 +5,13 @@
 I build responsive, user-friendly web apps, from React front ends to Node.js APIs and databases. I'm currently looking for a **junior web developer role** where I can learn from an experienced team and help build real products.
 
 ### 🛠 Tech I use
+
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+
 **Backend:** Node.js · Express · REST APIs · MongoDB · Mongoose
+
 **Tools:** Git · GitHub · Postman · VS Code · Vercel · Render
+
 **Also learning:** Networking & cyber security (CCNA, CompTIA)
 
 ### 🚀 Featured projects
