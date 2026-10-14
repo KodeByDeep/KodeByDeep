@@ -1,6 +1,6 @@
 # Hi, I'm Sandeep 👋
 
-### Full satck developer
+### Full stack developer
 
 **Junior Full-Stack Developer** based in London
 
